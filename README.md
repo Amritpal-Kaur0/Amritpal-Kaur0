@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amritpal-Kaur0
+- 👋 Hi, I’m Amrit
 - 🌱 I’m currently learning Full Stack Developement.
 
 
