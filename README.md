@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amrit
-- 🌱 I’m currently learning Full Stack Developement.
+- 🌱 I’m currently learning Node.js & Express.js.
 
 
 <!---
