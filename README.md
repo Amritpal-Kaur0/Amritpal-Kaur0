@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Express.Js**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://github.com/Amritpal-Kaur0</h3>
 <p align="left">
 </p>
 
